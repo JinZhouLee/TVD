@@ -1,0 +1,15 @@
+Package: TVD
+Title: Total Variation Distance 
+Version: 0.0.1
+Authors@R: 
+    person("Lee", "Jin-zhou", , "JinZhou1225@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Calculate the total variation distance between two different distributions
+License: MIT + file LICENSE
+Depends:
+    ggplot2,
+    dplyr, 
+    tidyr
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
